@@ -1,4 +1,4 @@
-## Oiii! EU sou a Rebeca Spinoza, estudante de Análise e Desenvolvimento de Sistemas
+## Oiii! Eu sou a Rebeca Spinoza, estudante de Análise e Desenvolvimento de Sistemas
 
 - 🔭 Trabalhando com Tecnologia de Automação Industrial
 - 🌱 Estudando JavaScript
