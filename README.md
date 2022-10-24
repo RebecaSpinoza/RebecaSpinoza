@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando com Tecnologia de Automação Industrial
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ElaDela
+- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/RebecaSpinoza">
