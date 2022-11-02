@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Rebeca Spinoza, estudante de Análise e Desenvolvimento de Sistemas
 
 - 🔭 Trabalhando com Tecnologia de Automação Industrial
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e cloud
 
 
 <div align="center">
@@ -15,14 +15,17 @@
   <img align="center" alt="Beca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Beca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Beca-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+        
 </div>
   
   ##
  
 <div> 
-  <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/rebeca_spinoza_/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rebeca_spinoza_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beca.spinoza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebeca-spinoza-4a38b31a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.cloudskillsboost.google/public_profiles/ccc3ca54-7da6-425a-8ac9-5f3de963649a"><img align="center" alt="Beca-cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  /></a>
+
  
   ![Snake animation](https://github.com/RebecaSpinoza/RebecaSpinoza/blob/output/github-contribution-grid-snake.svg)
  
