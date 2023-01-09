@@ -27,6 +27,4 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/ccc3ca54-7da6-425a-8ac9-5f3de963649a"><img alt="Beca-cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  /></a>
 
  
-  ![Snake animation](https://github.com/RebecaSpinoza/RebecaSpinoza/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
