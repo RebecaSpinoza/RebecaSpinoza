@@ -2,6 +2,7 @@
 
 - 🔭 Trabalhando com Tecnologia de Automação Industrial
 - 🌱 Estudando JavaScript e cloud
+- 🔎 Testador de Software Junior
 
 
 <div align="center">
