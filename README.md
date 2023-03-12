@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Rebeca Spinoza, estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 Trabalhando com Tecnologia de Automação Industrial
+- 🔭 Trabalhando com Qualidade de Software
 - 🌱 Estudando JavaScript e cloud
 - 🔎 Testador de Software Junior
 
