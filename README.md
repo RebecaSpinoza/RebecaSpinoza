@@ -1,9 +1,9 @@
-## Oiii! Eu sou a Rebeca Spinoza, estudante de Análise e Desenvolvimento de Sistemas
+## Oiii! Eu sou a Rebeca Spinoza, Formada em Análise e Desenvolvimento de Sistemas
 
-- 🔭 Trabalhando com Qualidade de Software
+- 🔭 Qualidade de Software
 - 🔎 Iniciação Científica - Inteligência Artificial Para Robôs Humanoides
-- 📚 Estudando JavaScript e TypeScript
-- 💻 Testador de Software Junior
+- 📚 Estudando UI/UX
+- 💻 Analista de QA Junior
   
   ##
  
