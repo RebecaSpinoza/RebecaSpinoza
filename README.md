@@ -1,10 +1,9 @@
 ## Oiii! Eu sou a Rebeca Spinoza, Formada em Análise e Desenvolvimento de Sistemas
 
-- 🔭 Qualidade de Software
+- 🔭 Design de Sistemas
 - 🔎 Iniciação Científica - Inteligência Artificial Para Robôs Humanoides
-- 📚 Estudando UI/UX
-- 💻 Analista de QA Junior
-  
+- 📚 Pós-Graduação Design de Sistemas, Produtos - Serviços
+- 💻 Dev Júnior
   ##
  
 <div> 
