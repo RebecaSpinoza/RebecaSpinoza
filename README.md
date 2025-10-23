@@ -4,6 +4,7 @@
 - 🔎 Iniciação Científica - Inteligência Artificial Para Robôs Humanoides
 - 📚 Pós-Graduação Design de Sistemas, Produtos - Serviços
 - 💻 Dev Júnior
+- ✅ Certificação AI900 Microsoft
   ##
  
 <div> 
